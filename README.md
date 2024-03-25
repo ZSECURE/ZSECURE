@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Microsoft 365 scripts / tools to help secure and breach environments
 - 📫 How to reach me - on Twitter @zak_hax or by Email zak@zsecure.uk
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K2RJ70R)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I6UAA0A)
 
 <!---
 ZSECURE/ZSECURE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
